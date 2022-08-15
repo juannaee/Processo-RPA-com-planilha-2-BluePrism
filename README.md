@@ -10,7 +10,8 @@ adicione a direção onde seus arquivos devem ser salvos .
 
 Exemplo: "\\ARAUJO\Users\Carlos Araujo\Desktop\Nova pasta\Sheet"&[enumeration] 
 
-Observação: o “&[enumeration] “ é concatenação para realizar a numeração dos arquivos
+Observação: o “&[enumeration] “ é concatenação para realizar a numeração dos arquivos.
+
 lembre-se de ajustar o diretório onde a planilha se encontra.
 
 
@@ -25,7 +26,8 @@ add the direction where your files should be saved.
 
 Example: "\\ARAUJO\Users\Carlos Araujo\Desktop\New Folder\Sheet"&[enumeration]
 
-Note: the “&[enumeration] “ is concatenation to perform the numbering of the files
+Note: the “&[enumeration] “ is concatenation to perform the numbering of the files.
+
 remember to adjust the directory where the spreadsheet is located.
 
 
